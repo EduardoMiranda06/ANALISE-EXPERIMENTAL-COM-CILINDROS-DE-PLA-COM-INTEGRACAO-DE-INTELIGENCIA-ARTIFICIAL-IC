@@ -61,7 +61,7 @@ O projeto é estruturado nas seguintes etapas:
 
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
+- NumPy
 - Matplotlib
 - Seaborn
