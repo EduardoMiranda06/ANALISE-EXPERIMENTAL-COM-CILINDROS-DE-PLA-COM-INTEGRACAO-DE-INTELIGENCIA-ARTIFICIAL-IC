@@ -1,4 +1,4 @@
-# 📁 Base de Dados 2025 – Análise Experimental de Cilindros de PLA
+#  Base de Dados 2025 – Análise Experimental de Cilindros de PLA
 
 Esta pasta contém as análises referentes à **base experimental de 2025**, utilizada no projeto de Iniciação Científica *Análise Experimental com Cilindros de PLA com Integração de Inteligência Artificial*.
 
@@ -24,7 +24,7 @@ Os objetivos desta etapa do projeto são:
 
 ---
 
-## 🧪 Variáveis da Base de Dados
+##  Variáveis da Base de Dados
 
 A base de 2025 contém as seguintes colunas:
 
@@ -59,7 +59,7 @@ Esta base apresenta características importantes que exigem tratamento específi
 
 ---
 
-## 📊 Estratégia Analítica
+##  Estratégia Analítica
 
 As análises desenvolvidas nesta pasta incluem:
 
@@ -74,12 +74,11 @@ As análises desenvolvidas nesta pasta incluem:
 
 ---
 
-## 🧠 Relevância Científica
+##  Relevância Científica
 
 A base de 2025 permite responder perguntas centrais do projeto, como:
 
 - O recozimento aumenta significativamente a resistência do PLA?
-- O tratamento térmico reduz a ocorrência de falhas estruturais?
 - Ainda existem defeitos internos mesmo após o tratamento?
 - Quais amostras devem ser investigadas experimentalmente?
 
